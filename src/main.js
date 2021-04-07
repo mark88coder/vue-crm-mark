@@ -8,7 +8,6 @@ import messagePlugin from '@/utils/message.plugin'
 import dateFilter from '@/filters/date.filter'
 import 'materialize-css/dist/js/materialize.min'
 
-
 Vue.config.productionTip = false
 
 Vue.use(messagePlugin)
